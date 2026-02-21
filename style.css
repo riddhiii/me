@@ -7,6 +7,7 @@ body {
   height: 100vh;
   align-items: center;
   background-color: darkslategray;
+  color: white;
   font-family: "Google Sans Code", monospace;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -20,3 +21,4 @@ body {
   transform: translateX(-50%);
   width: 200px;
 }
+
